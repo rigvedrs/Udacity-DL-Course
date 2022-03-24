@@ -1,2 +1,3 @@
-# Udacity-DL-Course
-Exercise done in the course
+# Udacity-DL-Course (using pytorch)
+This repo consists of all the exercises and projects that I have referred and worked on while doing the udacity deep learning course.
+First I started with the intro to pytorch exercises to get a hold on the coding part after which the course moved on to the mathematical side. Then I did the intro to neural network exercises. Further, I learned about convolutional neural networks and how they work in converting and detecting patterns in images and sound. Then I also understood how we can transfer and mix styles of the patterns that the CNN has detected. Finally, I learned about recurrent neural networks and how they rely on memory to predict what can come next, and also solved some exercises on them.
